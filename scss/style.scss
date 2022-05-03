@@ -69,10 +69,8 @@ body {
 }
 /* -------------------------------------------------------------------------------------------------------------------------------- */
 body {
-  background: url(/assets/start-screen-gradient-background.svg) no-repeat fixed;
-  background-size: 100%;
+  background: url(/assets/start-screen-gradient-background.svg) 50%/100% no-repeat;
   font-family: Georgia, "Times New Roman", Times, serif;
-  z-index: 0;
 }
 
 .wrapper {
@@ -538,6 +536,7 @@ body {
 // footer
 
 .footer {
+  background: url(/assets/start-screen-gradient-background.svg) 50%/100% no-repeat;
 }
 
 .footer__container {
