@@ -1,1 +1,1 @@
-https://SeniaSH.github.io/shelter
+https://seniash.github.io/Shelter/
